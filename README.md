@@ -3,7 +3,7 @@
 
 I am DavidX, a university student.
 
-I was once engaged in C++ Olympiad in Informatics (OI). 👨‍💻
+I was once engaged in OI and now interested in ICPC. 👨‍💻
 
 I use Arch Linux as my main operating system. 🐧
 

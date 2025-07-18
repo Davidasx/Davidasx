@@ -1,7 +1,7 @@
 # Hello! I am DavidX.
 [![](https://github-readme-stats-one-bice.vercel.app/api?username=Davidasx&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only)](https://github-readme-stats-one-bice.vercel.app/api?username=Davidasx&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only)
 
-I am DavidX, a university student.
+I am DavidX, from School of Gifted Young, University of Science and Technology of China.
 
 I was once engaged in OI and now interested in ICPC. 👨‍💻
 

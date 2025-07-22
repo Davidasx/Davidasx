@@ -11,8 +11,9 @@ Now I'm learning Python, AI, and Web. 🐍🤖🌐
 
 ## 🚀 Recent Projects
 
-- [flask-gpt ![](https://img.shields.io/github/languages/code-size/Davidasx/flask-gpt)](https://github.com/Davidasx/flask-gpt) - ChatGPT Web UI implemented with Flask, HTML, Javascript, and CSS
-- [wordle-cpp-new ![](https://img.shields.io/github/languages/code-size/Davidasx/wordle-cpp-new)](https://github.com/Davidasx/wordle-cpp-new) - A C++ implementation of Wordle
+### Solo Projects
+
+- [gemini-chat ![](https://img.shields.io/github/languages/code-size/Davidasx/gemini-chat)](https://github.com/Davidasx/gemini-chat)
 - [wikimirror ![](https://img.shields.io/github/languages/code-size/Davidasx/wikimirror)](https://github.com/Davidasx/wikimirror) - Wikipedia mirror with CloudFlare Workers
 
 ## 💻 Tech Stack

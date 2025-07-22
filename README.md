@@ -3,26 +3,46 @@
 
 I am DavidX, a student from University of Science and Technology of China School of  the Gifted Young, now in School of Computer Science and Technology.
 
-I was once engaged in OI and now interested in ICPC. 👨‍💻
+I was once engaged in OI and now interested in ICPC. I also like to develop interesting projects in my free time.
 
-I use Arch Linux as my main operating system. 🐧
+## 💻 Tech Stack
 
-Now I'm learning Python, AI, and Web. 🐍🤖🌐
+- Linux: Arch Linux
+- Languages: C++, Python, Javascript, Rust (learning?)
+- AI/ML: Tensorflow, PyTorch, Hugging Face
 
 ## 🚀 Recent Projects
 
 ### Solo Projects
 
-- [gemini-chat ![](https://img.shields.io/github/languages/code-size/Davidasx/gemini-chat)](https://github.com/Davidasx/gemini-chat)
-- [wikimirror ![](https://img.shields.io/github/languages/code-size/Davidasx/wikimirror)](https://github.com/Davidasx/wikimirror) - Wikipedia mirror with CloudFlare Workers
+#### Current
 
-## 💻 Tech Stack
+- [gemini-chat ![](https://img.shields.io/github/languages/code-size/Davidasx/gemini-chat)](https://github.com/Davidasx/gemini-chat) - Flask-based Gemini AI Chat web app, support file uploads and thinking.
 
-- Linux: Arch Linux 🐧
-- Languages: C++ 💻, Python 🐍
-- Web: Flask  🧪, HTML 🌐, JavaScript 📜, CSS 🎨
-- AI/ML: Actively learning and implementing 🤖
+
+- [homepage ![](https://img.shields.io/github/languages/code-size/Davidasx/homepage)](https://github.com/Davidasx/homepage) - My homepage.
+
+#### Previous
+
+- [wikimirror ![](https://img.shields.io/github/languages/code-size/Davidasx/wikimirror)](https://github.com/Davidasx/wikimirror) - Build a Wikipedia mirror with CloudFlare Workers
+
+- [flask-gpt ![](https://img.shields.io/github/languages/code-size/Davidasx/flask-gpt)](https://github.com/Davidasx/flask-gpt) - ChatGPT Web UI implemented with Flask, HTML, Javascript and CSS.
+
+- [wordle-cpp-new ![](https://img.shields.io/github/languages/code-size/Davidasx/wordle-cpp-new)](https://github.com/Davidasx/wordle-cpp-new) - A C++ game,similar to wordle.
+
+### Collaboration Projects
+
+#### Current
+
+- [SilentWhisper-Client ![](https://img.shields.io/github/languages/code-size/LittleSwift/SilentWhisper-Client)](https://github.com/LittleSwift/SilentWhisper-Client) - A script aimed to enhance the experience of game florr.io with zero injection to canvas APIs.
+
+#### Previous
+
+- [MicroRust ![](https://img.shields.io/github/languages/code-size/OSH-2025/MicroRust)](https://github.com/OSH-2025/MicroRust) - IPFS based AI filesystem.
 
 ## 🔗 Links
 
-[Homepage](https://davidx.top) 📝
+[Homepage](https://davidx.top)
+[Blog](https://blog.davidx.top)
+[Blog (Chinese)](https://blog-zh.davidx.top)
+[Github](https://github.com/Davidasx)

@@ -25,5 +25,3 @@ Now I'm learning Python, AI, and Web. 🐍🤖🌐
 ## 🔗 Links
 
 [Homepage](https://davidx.top) 📝
-
-[Free AI Chat](https://github.com/Davidasx/FR33-CH4T) 🤖

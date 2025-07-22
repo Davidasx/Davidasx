@@ -43,6 +43,7 @@ I was once engaged in OI and now interested in ICPC. I also like to develop inte
 ## 🔗 Links
 
 [Homepage](https://davidx.top)
+
 [Blog](https://blog.davidx.top)
+
 [Blog (Chinese)](https://blog-zh.davidx.top)
-[Github](https://github.com/Davidasx)

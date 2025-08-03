@@ -21,7 +21,7 @@ I was once engaged in OI and now interested in ICPC. I also like to develop inte
 
 ## 🚀 Recent Projects
 
-### Solo
+### Solo / As Leader
 
 - [gemini-chat ![](https://img.shields.io/github/languages/code-size/Davidasx/gemini-chat)](https://github.com/Davidasx/gemini-chat) - Flask-based Gemini AI Chat web app, support file uploads and thinking.
 
@@ -33,7 +33,7 @@ I was once engaged in OI and now interested in ICPC. I also like to develop inte
 
 ## 📜 Previous Projects
 
-### Solo
+### Solo / As Leader
 
 - [wikimirror ![](https://img.shields.io/github/languages/code-size/Davidasx/wikimirror)](https://github.com/Davidasx/wikimirror) - Build a Wikipedia mirror with CloudFlare Workers
 

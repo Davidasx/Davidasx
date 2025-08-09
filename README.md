@@ -8,7 +8,7 @@ I was once engaged in OI and now interested in ICPC. I also like to develop inte
 ## 💻 Tech Stack
 
 - Linux: Arch Linux
-- Languages: C++, Python, Javascript, Rust (learning?)
+- Languages: C++, Python, Javascript, Vue (learning)
 - AI/ML: Tensorflow, PyTorch, Hugging Face
 
 ## 🔗 Links

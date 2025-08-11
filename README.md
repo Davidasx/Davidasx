@@ -16,7 +16,7 @@ I was once engaged in OI and now interested in ICPC. I also like to develop inte
 
 [Homepage](https://davidx.top)
 
-[Blog](https://blog.davidx.top)
+[Blog (English)](https://blog.davidx.top)
 
 [Blog (Chinese)](https://blog-zh.davidx.top)
 

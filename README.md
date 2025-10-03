@@ -20,15 +20,6 @@ I was once engaged in OI and now interested in ICPC. I also like to develop inte
 
 [Blog (Chinese)](https://blog-zh.davidx.top)
 
-## 🚀 Current Projects
+## 🚀 Currently Working On
 
-### Solo
-
-- [gemini-chat ![](https://img.shields.io/github/languages/code-size/Davidasx/gemini-chat)](https://github.com/Davidasx/gemini-chat) - Flask-based Gemini AI Chat web app, support file uploads and conversations.
-
-
-- [homepage ![](https://img.shields.io/github/languages/code-size/Davidasx/homepage)](https://github.com/Davidasx/homepage) - My homepage.
-
-### Collaboration
-
-- [AyuScript-Client ![](https://img.shields.io/github/languages/code-size/AyuScript/AyuScript-Client)](https://github.com/AyuScript/AyuScript-Client) - A script aimed to enhance the experience of RuaRua.
+- [Synapse ![](https://img.shields.io/github/languages/code-size/Davidasx/Synapse)](https://github.com/Davidasx/Synapse) - A smart and privacy-first file management application.

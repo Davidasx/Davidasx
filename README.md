@@ -5,14 +5,14 @@ I am DavidX, a student from University of Science and Technology of China School
 
 I was once engaged in OI and now interested in ICPC. I also like to develop interesting projects in my free time.
 
-## 💻 Tech Stack
+## Tech Stack
 
 - Linux: Arch Linux
 - Languages: C++, Python, Javascript, Vue (learning)
 - ~Vibe Coding~
-- AI/ML: Tensorflow, PyTorch, Hugging Face
+- AI/ML: Tensorflow, PyTorch
 
-## 🔗 Links
+## Links
 
 [Homepage](https://davidx.top)
 
@@ -20,6 +20,6 @@ I was once engaged in OI and now interested in ICPC. I also like to develop inte
 
 [Blog (Chinese)](https://blog-zh.davidx.top)
 
-## 🚀 Currently Working On
+## Currently Working On
 
 - [Synapse ![](https://img.shields.io/github/languages/code-size/Davidasx/Synapse)](https://github.com/Davidasx/Synapse) - A smart and privacy-first file management application.

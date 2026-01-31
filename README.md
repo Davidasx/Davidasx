@@ -1,5 +1,4 @@
 # Hello! I am DavidX.
-[![](https://github-readme-stats-one-bice.vercel.app/api?username=Davidasx&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only)](https://github-readme-stats-one-bice.vercel.app/api?username=Davidasx&show_icons=true&include_all_commits=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only)
 
 I am DavidX, a student from University of Science and Technology of China School of  the Gifted Young, now in School of Computer Science and Technology.
 

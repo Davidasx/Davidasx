@@ -21,4 +21,7 @@ I was once engaged in OI and now interested in ICPC. I also like to develop inte
 
 ## Currently Working On
 
-- [Synapse ![](https://img.shields.io/github/languages/code-size/Davidasx/Synapse)](https://github.com/Davidasx/Synapse) - A smart and privacy-first file management application.
+- [Pi Key Protector ![](https://img.shields.io/github/languages/code-size/Davidasx/pi-key-protector)](https://github.com/Davidasx/pi-key-protector) - Redact environment credentials from every tool result before the model - or the upstream provider - ever sees them (Pi extension)
+
+
+- [Florr Notify ![](https://img.shields.io/github/languages/code-size/Davidasx/florr-notify)](https://github.com/Davidasx/florr-notify) - A local, read-only Discord monitor for the florr.io server
